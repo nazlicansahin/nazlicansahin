@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [https://blog.nazlican.dev/](https://blog.nazlican.dev/)
 
-- 📫 How to reach me **mail@nazlican.dev**
+- 📫 How to reach me **hi@nazlican.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
