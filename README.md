@@ -1,3 +1,4 @@
+<img align="center" src="https://64.media.tumblr.com/308b1f1c1314e619a5ecf6f18c0b0838/tumblr_nzq3mosNIZ1t0kk75o1_500.gif" alt="nzlcnshn287" height="30" width="40" />
 <h1 align="center">Hi 👋, I'm Nazlıcan!</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
