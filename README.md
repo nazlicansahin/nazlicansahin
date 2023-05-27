@@ -1,6 +1,6 @@
 <img  align="center" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="nzlcnshn287" height="400" width="1100" />
 <h1 align="center">Hi 👋, I'm Nazlıcan!</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 📝 I regularly write articles on [https://blog.nazlican.dev/](https://blog.nazlican.dev/)
 
